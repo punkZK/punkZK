@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @punkZK
+- 👋 Hi, I’m ZK Punk
 - 👀 I’m interested in creative coding, blockchains, ar, graphics, gaming etc
 - 🌱 I’m currently learning about generative art
 - 💞️ I’m looking to collaborate 
